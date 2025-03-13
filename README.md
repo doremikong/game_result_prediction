@@ -71,4 +71,4 @@ GNN-based prediction task, Selected as the best project in the AI607 class of KA
 
 ✅ **승리 예측 80%, 점수 예측 87% 달성 → 모든 팀 중 최고의 성과 기록**
 
-✅ **보고서가 우수 사례로 선정되어 교수님이 다른 학생들과 공유 요청**
+✅ **최우수 사례로 선정되어 교수님이 다른 학생들과 공유 요청**
