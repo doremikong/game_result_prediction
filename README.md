@@ -1,5 +1,5 @@
 # Battle-game-result-prediction-using-heterogeneous-graph
-GNN-based prediction task, Selected as the best project in the AI506 class of KAIST
+GNN-based prediction task, Selected as the best project in the AI607 class of KAIST
 
 ## **📑 Summary**
 
