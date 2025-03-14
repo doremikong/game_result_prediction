@@ -72,3 +72,12 @@ Selected as the best project in the AI607 class of KAIST
 ✅ **승리 예측 80%, 점수 예측 87% 달성 → 모든 팀 중 최고의 성과 기록**
 
 ✅ **최우수 사례로 선정되어 교수님이 다른 학생들과 공유 요청**
+
+---
+![image](https://github.com/user-attachments/assets/8876272a-ffb1-42d7-95b0-ab1a51042a26)
+
+승리 예측
+
+![image](https://github.com/user-attachments/assets/2cc23f23-5dfa-44ff-b27d-16388bfe18aa)
+
+점수 예측
